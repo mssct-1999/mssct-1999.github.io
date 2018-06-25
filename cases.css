@@ -1,0 +1,21 @@
+#container { 
+    width: 800px; 
+    height: 600px; 
+    float: left; 
+}
+
+section { 
+    width: 130px; 
+    height: 520px; 
+    float: left;
+}
+
+section > div { 
+    width: 100px; 
+    height: 20px; 
+    border: 1px solid #000; 
+    margin: 10px 0; 
+    background: #73789F; 
+    color: white; 
+    padding: 10px 10px 10px 20px;
+}
